@@ -1,20 +1,57 @@
-#Sales Forecast Request Dashboard
-Project by Kush Sharma
-Description
-The Sales Forecast Request Dashboard is a modern, AI-powered web application that enables analysts, business managers, and retail decision makers to predict future sales using advanced time-series models and interactive dashboards. Users can input product descriptions and recent sales trends, and the dashboard leverages Google Gemini AI to generate qualitative and quantitative sales forecasts, including visualizations and performance metrics.
-Features
-AI-Powered Forecasting: Uses Google Gemini API to generate sales forecasts based on your product description and recent trends.
-Interactive Dashboard: Clean, responsive UI built with Next.js, React, and Tailwind CSS.
-Sales Trend Visualization: Dynamic charts display historical and forecasted sales data.
-Performance Metrics: Shows RMSE, MAE, and MAPE for each forecast.
-Custom Date Ranges: Optionally specify a date range for more contextual forecasts.
-Modern UI: Card-based layout, mobile-friendly, and easy to use.
-Tech Stack
-Frontend: Next.js, React, Tailwind CSS, TypeScript
-AI Integration: Google Gemini API (via Genkit)
-Visualization: Recharts
-Form Handling: React Hook Form, Zod
-Getting Started
-Prerequisites
-Node.js (v18+ recommended)
-npm
+# 📊 Sales Forecast Request Dashboard  
+**by Kush Sharma**
+
+## 🔍 Description  
+The **Sales Forecast Request Dashboard** is a modern, AI-powered web application that enables analysts, business managers, and retail decision makers to predict future sales using advanced time-series models and interactive dashboards.
+
+Users can input product descriptions and recent sales trends, and the dashboard uses the **Google Gemini AI** to generate qualitative and quantitative sales forecasts — complete with visualizations and performance metrics.
+
+---
+
+## ✨ Features  
+- ✅ **AI-Powered Forecasting**  
+   Uses the **Google Gemini API** to generate smart, contextual sales forecasts based on your product description and recent trends.
+
+- 📈 **Sales Trend Visualization**  
+   Dynamic, responsive charts to visualize historical and forecasted sales.
+
+- 📊 **Performance Metrics**  
+   Displays key error metrics: **RMSE**, **MAE**, and **MAPE** to evaluate forecast accuracy.
+
+- 📅 **Custom Date Ranges**  
+   Specify a time window for more tailored and relevant forecasts.
+
+- 🖥️ **Modern Interactive Dashboard**  
+   Clean, card-based layout built with **Next.js**, **React**, and **Tailwind CSS** — fully responsive and mobile-friendly.
+
+---
+
+## 🛠️ Tech Stack  
+
+| Category       | Stack                              |
+|----------------|-------------------------------------|
+| **Frontend**   | Next.js, React, Tailwind CSS, TypeScript |
+| **AI Backend** | Google Gemini API (via Genkit)      |
+| **Charts**     | Recharts                           |
+| **Forms**      | React Hook Form, Zod                |
+
+---
+
+## 🚀 Getting Started  
+
+### ✅ Prerequisites  
+- [Node.js](https://nodejs.org/) (v18+ recommended)  
+- npm (comes with Node.js)
+
+### 📦 Installation  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/sales-forecast-dashboard.git
+cd sales-forecast-dashboard
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
