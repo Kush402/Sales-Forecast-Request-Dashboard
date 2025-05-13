@@ -1,3 +1,8 @@
+Here’s a clean, professional, and **developer-friendly formatted** `README.md` for your **Sales Forecast Request Dashboard** project by **Kush Sharma**:
+
+---
+
+````markdown
 # 📊 Sales Forecast Request Dashboard  
 **by Kush Sharma**
 
@@ -55,3 +60,54 @@ npm install
 
 # Run the development server
 npm run dev
+````
+
+### 🌐 Access the app
+
+Open your browser and go to:
+
+```bash
+http://localhost:3000
+```
+
+---
+
+## 📸 Screenshots
+
+*(Insert screenshots or GIFs of the dashboard and forecast visualizations here)*
+
+---
+
+## 🧠 Future Improvements
+
+* Add export to Excel/CSV
+* Integration with external sales data APIs
+* Forecast comparison across multiple products
+* Admin panel for managing API usage and logs
+
+---
+
+## 🤝 Acknowledgements
+
+* [Google Gemini](https://deepmind.google/technologies/gemini/)
+* [Recharts](https://recharts.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [React Hook Form](https://react-hook-form.com/)
+
+---
+
+## 🧑‍💻 Author
+
+**Kush Sharma** – [LinkedIn](https://linkedin.com/in/kush-shxrmx) | [GitHub](https://github.com/Kush402)
+
+---
+
+## 📄 License
+
+MIT License
+
+```
+
+---
+
+
