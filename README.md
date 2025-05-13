@@ -1,8 +1,4 @@
-Here’s a clean, professional, and **developer-friendly formatted** `README.md` for your **Sales Forecast Request Dashboard** project by **Kush Sharma**:
 
----
-
-````markdown
 # 📊 Sales Forecast Request Dashboard  
 **by Kush Sharma**
 
@@ -74,7 +70,8 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-*(Insert screenshots or GIFs of the dashboard and forecast visualizations here)*
+![image](https://github.com/user-attachments/assets/ac57f7ef-2489-4a9c-be75-187bb5c4a8e5)
+
 
 ---
 
@@ -102,12 +99,6 @@ http://localhost:3000
 
 ---
 
-## 📄 License
 
-MIT License
-
-```
-
----
 
 
