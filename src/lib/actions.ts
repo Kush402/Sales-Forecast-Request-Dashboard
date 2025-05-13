@@ -1,6 +1,6 @@
 'use server';
 
-import { forecastSalesFromPrompt, type ForecastSalesInput, type ForecastSalesOutput } from '@/ai/flows/sales-forecast-prompt';
+import { forecastSalesFromPrompt, type ForecastSalesInput, type ForecastSalesOutput } from '@/ai/flows/sales-forcast-prompt';
 import { z } from 'zod';
 
 const GenerateForecastActionInputSchema = z.object({
